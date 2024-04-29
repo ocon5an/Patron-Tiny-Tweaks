@@ -1,0 +1,5 @@
+    - Para pantallas con un ancho mínimo de 500px, el tamaño de fuente se establece en 1.3em.
+    - Para pantallas con un ancho mínimo de 700px, el tamaño de fuente se establece en 1.5em, y el color de los encabezados de nivel 1 (h1) cambia a #ff004e.
+    - Para pantallas con un ancho mínimo de 900px, el tamaño de fuente se establece en 1.8em.
+    - Para pantallas con un ancho mínimo de 1000px, se realizan varios cambios, como el aumento del relleno y el cambio de colores tanto para la sección s1 como para la barra de navegación (nav). Además, el tamaño de fuente de la barra de navegación se reduce a 1.2em y se convierte en mayúsculas.
+    - Para pantallas con un ancho mínimo de 1100px, se alinea el texto de la barra de navegación al centro.
